@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /* eslint-disable quotes */
 /* eslint-disable import/no-extraneous-dependencies */
 const Hapi = require("@hapi/hapi");
