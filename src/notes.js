@@ -1,8 +1,4 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable no-unused-vars */
-/* eslint-disable quotes */
-/* eslint-disable import/no-extraneous-dependencies */
-const { nanoid } = require("nanoid");
+const { nanoid } = require('nanoid');
 
 const notes = [];
 
